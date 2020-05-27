@@ -1,5 +1,7 @@
 {
   "name": "teste-network",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
